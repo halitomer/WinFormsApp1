@@ -117,6 +117,7 @@
             button1.TabIndex = 8;
             button1.Text = "Create Account ";
             button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // label5
             // 
